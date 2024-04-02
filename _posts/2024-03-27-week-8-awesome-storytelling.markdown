@@ -15,7 +15,7 @@ When examining any data set or historical event, it's crucial to consider potent
 <center style = "color:#808080; font-style: italic;" width="80%">Daily variations in Robbery rates are showcased in this calendar plot for San Francisco (2005-2010).
 </center>
 
-<div margin="100">
+<div style="margin:100">
 
 
 
