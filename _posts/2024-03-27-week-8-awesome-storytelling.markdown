@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 8 awesome storytelling"
+title:  "Desperation or Deception? Unveiling Crime Patterns During the 2008 Recession"
 date:   2024-03-11 19:16:39 +0100
 categories: week8
 ---
