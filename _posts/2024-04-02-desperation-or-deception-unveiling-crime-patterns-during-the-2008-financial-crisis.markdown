@@ -17,15 +17,17 @@ When examining any data set or historical event, it's crucial to consider potent
 
 Examining the calendar plot the first thing we noticed is that the count of robbery committed correlates with the economic down turn. As the density of darker green days during the recession (2007 - 2008) is greater than the rest of the examined period. Furthermore, the growth in robberies can indicate and economic downturn as we can observe a hike in this type of crime preceding the crises in 2006.
 
-Interpreting the daily crime occurrences is a good tool to understand trends over time, however, to obtain a deeper, higher level overview analyzing crime occurrences over a longer period might yield more concrete insights. Hence, the comparison of the monthly crime magnitudes for the examined period:
+Interpreting the daily crime occurrences is a good tool to understand trends over time, however, to obtain a deeper, higher level overview analyzing crime occurrences over a longer period might yield more concrete insights. Hence, the comparison of the monthly crime magnitudes for each year in the considered period can be seen below.
 
-<embed type="text/html" src="/content/bokeh.html" width="100%" height="600px">
+<embed type="text/html" src="/content/bokeh.html" width="100%" height="600px" style="margin-left:60px">
 <center style = "color:#808080; font-style: italic;" width="80%">Number of robberies aggregated by months in San Francisco (2005-2010).
 </center>
 
 <div style="margin:35px"></div>
 
-While we can clearly see the sudden drop in the number of robberies after the recession, we cannot detect any trends before 2008. By delving more deeply into the data and looking for geographical aspects, we can see which regions contributed to the peak in the number of robberies in 2008. Most of the western regions (Taraval, Park, Richmond) had stagnating crime rates in our focus period; however, some eastern regions (Bayview, Mission, Southern) had a big increase during the recession. Comparing these regions with the poverty rates for neighborhoods [[2]](#ref), we cannot notice any correlation between the poverty rates and the robbery-affected regions.
+From this, we can see that there was an increasing trend in the number of robberies before the burst of the bubble in 2008. Interestingly, there were more robberies in 2006 than in 2007, but in both years there were significantly more robberies than in 2005. In 2008, when the financial bubble burst, the number of robberies reached its peak. After this, the crime rates went back to a more normal level in 2009, and reached its minimum in the considered period in 2010. The decrease probably can be explained by the normalization of the world economy and the daily lives of people in general.
+
+By delving more deeply into the data and looking for geographical aspects, we can see which regions contributed to the peak in the number of robberies in 2008. Most of the western regions (Taraval, Park, Richmond) had stagnating crime rates in our focus period; however, some eastern regions (Bayview, Mission, Southern) had a big increase during the recession. Comparing these regions with the poverty rates for neighborhoods [[2]](#ref), we cannot notice any correlation between the poverty rates and the robbery-affected regions.
 
 <embed type="text/html" src="/content/map.html" width="100%" height="600px">
 <center style = "color:#808080; font-style: italic;" width="80%">Regional differences in robbery rates in San Francisco (2005-2010).
@@ -33,8 +35,7 @@ While we can clearly see the sudden drop in the number of robberies after the re
 
 <div style="margin:35px"></div>
 
-In this report, we investigated the effects of the Great Recession on the rates of robberies. We can conclude that during and after this period, its effects are noticeable, but based on the available data, the recession could not have been predicted.
-
+In this report, we investigated the effects of the Great Recession on the rates of robberies. We can conclude that during the considered period, there is correlation between the number of robberies and the timeline of the financial crisis (the lead up, the event, and the aftermath). On the other hand, we do not believe that the financial crisis could have been predicted based on the number of robberies, as correlation is not causation and it would be a classical example of hindsight bias. Rather, uncovering these insights is part of understanding the wider impact the Great Recession had on everyday people's lives.
 ### <a name="ref"></a>  References 
 
 1. [Impact of economic crisis on crime](https://www.unodc.org/documents/data-and-analysis/statistics/crime/GIVAS_Final_Report.pdf)
