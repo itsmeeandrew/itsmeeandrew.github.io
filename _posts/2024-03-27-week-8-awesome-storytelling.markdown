@@ -29,6 +29,7 @@ Interpreting the daily crime occurrences is a good tool to understand trends ove
 
 
 ### <a name="ref"></a>  References 
+
 1. [Impact of economic crisis on crime](https://www.unodc.org/documents/data-and-analysis/statistics/crime/GIVAS_Final_Report.pdf)
 
 
