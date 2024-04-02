@@ -10,6 +10,8 @@ When examining any data set or historical event, it's crucial to consider potent
 
 
 ![Calendar plot](/content/calplot.png)
+
+
 <center style = "color:#808080; font-style: italic;" width="80%">Daily variations in Robbery rates are showcased in this calendar plot for San Francisco (2005-2010).</center>
 
 
