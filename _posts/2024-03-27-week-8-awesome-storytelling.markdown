@@ -6,12 +6,14 @@ categories: week8
 ---
 In the wake of the 2008 financial crisis, millions faced economic hardship, losing jobs and homes. This blog post explores the potential impact of these desperate times on crime rates in San Francisco. We will be analyzing data from the San Francisco's Open Data Portal' Police Department Incident Reports, spanning the years 2003 to 2018, to see if a correlation exists between the financial crisis and crime trends.
 
+![Calendar plot](/content/calplot.png)
+<center>Daily variations in Robbery rates are showcased in this calendar plot for San Francisco (2005-2010). A clear pattern emerges as the robbery rates increased during the recession.</center>
+
 <embed type="text/html" src="/content/bokeh.html" width="100%" height="600px">
 
 <embed type="text/html" src="/content/heatmap.html" width="100%" height="600px">
 
-![Calendar plot](/content/calplot.png)
-<center>Daily variations in Robbery rates are showcased in this calendar plot for San Francisco (2005-2010). A clear pattern emerges as the robbery rates increased during the recession.</center>
+
 
 
 
