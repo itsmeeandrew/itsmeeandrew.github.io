@@ -19,7 +19,7 @@ When examining any data set or historical event, it's crucial to consider potent
 
 ### References 
 
-[^1]: This is the full reference details for the precursor concept https://www.oncrawl.com/technical-seo/how-to-find-all-your-urls-before-a-website-migration/(link text).
+[^1]: This is the full reference details for the precursor concept https://www.oncrawl.com/technical-seo/how-to-find-all-your-urls-before-a-website-migration/(Impact of economic crisis on crime).
 
 
 
