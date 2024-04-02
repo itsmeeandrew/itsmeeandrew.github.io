@@ -11,6 +11,7 @@ In the wake of the 2008 financial crisis, millions faced economic hardship, losi
 <embed type="text/html" src="/content/heatmap.html" width="100%" height="600px">
 
 ![Calendar plot](/content/calplot.png)
+<center>Centered text</center>
 
 *image_caption*
 
