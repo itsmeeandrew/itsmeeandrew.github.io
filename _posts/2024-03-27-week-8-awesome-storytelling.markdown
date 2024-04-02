@@ -25,7 +25,7 @@ Interpreting the daily crime occurrences is a good tool to understand trends ove
 
 <embed type="text/html" src="/content/bokeh.html" width="100%" height="600px">
 
-<embed type="text/html" src="/content/heatmap.html" width="100%" height="600px">
+<embed type="text/html" src="/content/map.html" width="100%" height="600px">
 
 
 ### <a name="ref"></a>  References 
