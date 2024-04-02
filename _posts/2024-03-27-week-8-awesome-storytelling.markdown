@@ -14,7 +14,10 @@ When examining any data set or historical event, it's crucial to consider potent
 
 <center style = "color:#808080; font-style: italic;" width="80%">Daily variations in Robbery rates are showcased in this calendar plot for San Francisco (2005-2010).
 </center>
-<spacer type="horizontal" height="200" ></spacer>
+<hr>
+
+
+
 
 Examining the calendar plot the first thing we noticed is that the count of robbery committed correlates with the economic down turn. As the density of darker green days during the recession (2007 - 2008) is greater than the rest of the examined period. Furthermore, the growth in robberies can indicate and economic downturn as we can observe a hike in this type of crime preceding the crises in 2006.
 
