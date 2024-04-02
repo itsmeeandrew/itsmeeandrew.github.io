@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Desperation or Deception? Unveiling Crime Patterns During the 2008 Recession"
+title:  "Desperation or Deception? Unveiling Crime Patterns During the 2008 Financial Crisis"
 date:   2024-03-11 19:16:39 +0100
 categories: week8
 ---
