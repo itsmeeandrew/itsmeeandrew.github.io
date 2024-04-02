@@ -21,11 +21,11 @@ Interpreting the daily crime occurrences is a good tool to understand trends ove
 
 <embed type="text/html" src="/content/bokeh.html" width="100%" height="600px">
 
-While we can clearly see the sudden drop in the number of robberies after the recession, we can not detect any trends before 2008. By diving down more deeply into the data and looking for geographical aspects, we can see which regions contributed to the peak in the number of robberies in 2008. While the western regions' (Taraval, Park, Richmond) crime rates were stagnating in our focus period, some eastern regions (Bayview, Mission, Southern) had big increase during the recession. Comparing these regions with the poverty rates for neighboords [[2]](#ref), we can not notice any correlation between the poverty rates and the robbery-affected regions. 
+While we can clearly see the sudden drop in the number of robberies after the recession, we cannot detect any trends before 2008. By delving more deeply into the data and looking for geographical aspects, we can see which regions contributed to the peak in the number of robberies in 2008. Most of the western regions (Taraval, Park, Richmond) had stagnating crime rates in our focus period; however, some eastern regions (Bayview, Mission, Southern) had a big increase during the recession. Comparing these regions with the poverty rates for neighborhoods [[2]](#ref), we cannot notice any correlation between the poverty rates and the robbery-affected regions.
 
 <embed type="text/html" src="/content/map.html" width="100%" height="600px">
 
-In this report, we investigated the effects of the Great Recession on the rates of robberies. We can conclude that during and after this period, its effects are noticable, but based on the available data, the recession could not have been predicted.
+In this report, we investigated the effects of the Great Recession on the rates of robberies. We can conclude that during and after this period, its effects are noticeable, but based on the available data, the recession could not have been predicted.
 
 ### <a name="ref"></a>  References 
 
@@ -35,10 +35,10 @@ In this report, we investigated the effects of the Great Recession on the rates 
 
 ### <a name="ref"></a>  Contributions 
 
-- András Bence Schin (s233084):
+- András Bence Schin (s233084): Bokeh plot and text
 
-- István László Mádi (s232971):
+- István László Mádi (s232971): Calendar plot and text
 
-- Boldizsár Elek (s233085):
+- Boldizsár Elek (s233085): Choropleth map and text
 
 
