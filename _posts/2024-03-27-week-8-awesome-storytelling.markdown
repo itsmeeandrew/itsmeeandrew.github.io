@@ -18,7 +18,8 @@ When examining any data set or historical event, it's crucial to consider potent
 
 
 ### References 
-[1]: <https://www.unodc.org/documents/data-and-analysis/statistics/crime/GIVAS_Final_Report.pdf> "Impact of economic crisis on crime"
+
+1. [Impact of economic crisis on crime](https://www.unodc.org/documents/data-and-analysis/statistics/crime/GIVAS_Final_Report.pdf)
 
 
 
