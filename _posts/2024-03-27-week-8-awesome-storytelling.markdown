@@ -11,9 +11,8 @@ In the wake of the 2008 financial crisis, millions faced economic hardship, losi
 <embed type="text/html" src="/content/heatmap.html" width="100%" height="600px">
 
 ![Calendar plot](/content/calplot.png)
-<center>Centered text</center>
+<center>Daily variations in Robbery rates are showcased in this calendar plot for San Francisco (2005-2010). A clear pattern emerges as the robbery rates increased during the recession.</center>
 
-*image_caption*
 
 
 
