@@ -17,9 +17,7 @@ Examining the calendar plot the first thing we noticed is that the count of robb
 
 Interpreting the daily crime occurrences is a good tool to understand trends over time, however, to obtain a deeper, higher level overview analyzing crime occurrences over a longer period might yield more concrete insights. Hence, the comparison of the monthly crime magnitudes for the examined period:
 
-<div style="display: grid; place-items: center;">
 <embed type="text/html" src="/content/bokeh.html" width="100%" height="600px">
-</div>
 
 <embed type="text/html" src="/content/heatmap.html" width="100%" height="600px">
 
