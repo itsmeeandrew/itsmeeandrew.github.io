@@ -16,7 +16,7 @@ When examining any data set or historical event, it's crucial to consider potent
 Examining the calendar plot the first thing we noticed is that the count of robbery committed correlates with the economic down turn. As the density of darker green days during the recession (2007 - 2008) is greater than the rest of the examined period. Furthermore, the growth in robberies can indicate and economic downturn as we can observe a hike in this type of crime preceding the crises in 2006.
 
 Interpreting the daily crime occurrences is a good tool to understand trends over time, however, to obtain a deeper, higher level overview analyzing crime occurrences over a longer period might yield more concrete insights. Hence, the comparison of the monthly crime magnitudes for the examined period:
-<embed type="text/html" src="/content/bokeh.html" width="100%" height="600px">
+<center><embed type="text/html" src="/content/bokeh.html" width="100%" height="600px"></center>
 
 <embed type="text/html" src="/content/heatmap.html" width="100%" height="600px">
 
