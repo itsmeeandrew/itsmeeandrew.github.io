@@ -23,11 +23,15 @@ Interpreting the daily crime occurrences is a good tool to understand trends ove
 <center style = "color:#808080; font-style: italic;" width="80%">Number of robberies aggregated by months in San Francisco (2005-2010).
 </center>
 
+<div style="margin:35px"></div>
+
 While we can clearly see the sudden drop in the number of robberies after the recession, we cannot detect any trends before 2008. By delving more deeply into the data and looking for geographical aspects, we can see which regions contributed to the peak in the number of robberies in 2008. Most of the western regions (Taraval, Park, Richmond) had stagnating crime rates in our focus period; however, some eastern regions (Bayview, Mission, Southern) had a big increase during the recession. Comparing these regions with the poverty rates for neighborhoods [[2]](#ref), we cannot notice any correlation between the poverty rates and the robbery-affected regions.
 
 <embed type="text/html" src="/content/map.html" width="100%" height="600px">
 <center style = "color:#808080; font-style: italic;" width="80%">Regional differences in robbery rates in San Francisco (2005-2010).
 </center>
+
+<div style="margin:35px"></div>
 
 In this report, we investigated the effects of the Great Recession on the rates of robberies. We can conclude that during and after this period, its effects are noticeable, but based on the available data, the recession could not have been predicted.
 
