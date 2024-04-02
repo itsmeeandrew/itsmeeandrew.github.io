@@ -6,7 +6,7 @@ categories: week8
 ---
 In the wake of the 2008 financial crisis, millions faced economic hardship, losing jobs and homes. This blog post explores the potential impact of these desperate times on crime rates in San Francisco. We will be analyzing data from the San Francisco's Open Data Portal' Police Department Incident Reports, spanning the years 2003 to 2018, to see if a correlation exists between the financial crisis and crime trends.
 
-When examining any data set or historical event, it's crucial to consider potential precursors. In other words, were there any early warning signs that foreshadowed the event? In our case, we're investigating whether robbery rates might have served as a leading indicator of the approaching recession. [1][1]
+When examining any data set or historical event, it's crucial to consider potential precursors. In other words, were there any early warning signs that foreshadowed the event? In our case, we're investigating whether robbery rates might have served as a leading indicator of the approaching recession. [1][### References]
 
 
 ![Calendar plot](/content/calplot.png)
