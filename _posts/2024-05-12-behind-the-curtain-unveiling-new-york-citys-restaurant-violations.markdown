@@ -17,8 +17,6 @@ After a quick exploratory analysis we can see that 12,000 restaurants have recei
 
 <div style="margin:35px"></div>
 
-After investigating the restaurants by geolocations and cousine types served, we can see that Brooklyn has the highest average violation score and Manhattan has the lowest, although the difference is less than one / not significant, and therefore we can not say that a restaurant is safe based solely on its location.
-
 Based on cousine types, we can see that Bangladeshi has the highest violation score and Chimichurri has the lowest. One can argue that these scores can be interpreted as outliers if the number of restaurants in this dataset is low. Even though the number of chimichurri selling restaurants are low we can still say that if a person goes into this type of restaurant, he/she can expect an overall good quality. The low score of the hotdog oriented establishments is also interesting, considering the large amount street-food styled hotdog vendors in NYC.
 
 ![Barplots](/content/image.png)
@@ -30,7 +28,7 @@ Based on cousine types, we can see that Bangladeshi has the highest violation sc
 
 To have a deeper understanding about the relation between a restaurants location and its food served, we combined these two features to check whether we can make assumptions about a certain restaurant based on these properties. Interestingly, even though french food is in the top 25, no french restaurant can be found in Staten Island and Bronx.
 
-Staten Island contains both two extremities regarding the average violation score. Thai food has the highest and jewish/kosher has the lowest. The second cousine type with the highest score is Indian food in Bronx.
+Staten Island contains both two extremities regarding the average violation score. This means the Thai food is the least safe to eat in New York City in Staten Island, and the safest food to eat is Jewish/Kosher. Furthermore, it seems to be a safe bet to eat at Korean and Frozen Dessert places in Staten Island. It is also interesting to note that there seems to be a notable difference in food safety between Bronx and Manhattan when it comes to Chinese and Mediterranean food. Some other places to avoid are: Indian and Latin American places in Queens, Indian places in Brooklyn, Thai and Korean places in Bronx, Indian places in Manhattan, Bakery products in Staten Island.
 
 <embed type="text/html" src="/content/bokeh_nyc.html" width="100%" height="600px" style="margin-left:60px">
 <center style = "color:#808080; font-style: italic;" width="80%">The 25 most common cousine types' average violation score by neighborhoods.
@@ -38,13 +36,13 @@ Staten Island contains both two extremities regarding the average violation scor
 
 <div style="margin:35px"></div>
 
-From this, we can see that there was an increasing trend in the number of robberies before the burst of the bubble in 2008. Interestingly, there were more robberies in 2006 than in 2007, but in both years there were significantly more robberies than in 2005. In 2008, when the financial bubble burst, the number of robberies reached its peak. After this, the crime rates went back to a more normal level in 2009, and reached its minimum in the considered period in 2010. The decrease probably can be explained by the normalization of the world economy and the daily lives of people in general.
-
-By delving more deeply into the data and looking for geographical aspects, we can see which regions contributed to the peak in the number of robberies in 2008. Most of the western regions (Taraval, Park, Richmond) had stagnating crime rates in our focus period; however, some eastern regions (Bayview, Mission, Southern) had a big increase during the recession. Comparing these regions with the poverty rates for neighborhoods [[2]](#ref), we cannot notice any correlation between the poverty rates and the robbery-affected regions.
+---
 
 <embed type="text/html" src="/content/map_nyc.html" width="100%" height="600px">
 <center style = "color:#808080; font-style: italic;" width="80%">Regional differences in robbery rates in San Francisco (2005-2010).
 </center>
+
+After investigating the restaurants by geolocations and cousine types served, we can see that Brooklyn has the highest average violation score and Manhattan has the lowest, although the difference is less than one / not significant, and therefore we can not say that a restaurant is safe based solely on its location.
 
 <div style="margin:35px"></div>
 
@@ -54,7 +52,7 @@ By delving more deeply into the data and looking for geographical aspects, we ca
 
 <div style="margin:35px"></div>
 
-In this report, we investigated the effects of the Great Recession on the rates of robberies. We can conclude that during the considered period, there is correlation between the number of robberies and the timeline of the financial crisis (the lead up, the event, and the aftermath). On the other hand, we do not believe that the financial crisis could have been predicted based on the number of robberies, as correlation is not causation and it would be a classical example of hindsight bias. Rather, uncovering these insights is part of understanding the wider impact the Great Recession had on everyday people's lives.
+Conclusion here...
 ### <a name="ref"></a>  References 
 
 1. [Impact of economic crisis on crime](https://www.unodc.org/documents/data-and-analysis/statistics/crime/GIVAS_Final_Report.pdf)
