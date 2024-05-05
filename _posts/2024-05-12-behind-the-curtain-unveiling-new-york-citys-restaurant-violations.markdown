@@ -12,7 +12,7 @@ After a quick exploratory analysis we can see that 12,000 restaurants have recei
 
 ![Histplot](/content/dist_no_viol.png)
 
-<center style = "color:#808080; font-style: italic;" width="80%">Number of violations per each resturant..
+<center style = "color:#808080; font-style: italic;" width="80%">Number of violations per each resturant. Many restaurants have more than 7 violations in New York City which makes it not obvious where it is safe to eat.
 </center>
 
 <div style="margin:35px"></div>
