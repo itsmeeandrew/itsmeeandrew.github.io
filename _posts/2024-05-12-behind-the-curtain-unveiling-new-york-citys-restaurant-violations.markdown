@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NYC Restaurants"
+title:  "Behind the Curtain: Unveiling New York City's Restaurant Violations"
 date:   2024-05-02 11:16:39 +0100
 categories: analysis
 ---
