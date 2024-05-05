@@ -8,18 +8,23 @@ New York City is the most popolous city in the United States and one of the most
 
 In our research, we used the [DOHMH New York City Restaurant Inspection Results](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data) dataset from the NYC OpenData database. This dataset contains every violation citation for restaurants up to three years prior to the most recent inspection. We can get information about a restaurant's inspection results, and date with location attributes (coordinates, neighborhood).
 
-After a quick exploratory analysis we can see that 12,000 restaurants have received less than 7 violations. However, the number of establishments that received at least 7 violations, is even larger.
+After a quick exploratory analysis we can see that 12,000 restaurants have received less than 7 violations. However, the number of establishments that received at least 7 violations, is even larger, raising the concern whether it is safe to eat-out in New York.
 
-![Calendar plot](/content/dist_no_viol.png)
+![Histplot](/content/dist_no_viol.png)
 
 <center style = "color:#808080; font-style: italic;" width="80%">Number of violations per each resturant..
 </center>
 
 <div style="margin:35px"></div>
 
-Examining the calendar plot the first thing we noticed is that the count of robbery committed correlates with the economic down turn. As the density of darker green days during the recession (2007 - 2008) is greater than the rest of the examined period. Furthermore, the growth in robberies can indicate and economic downturn as we can observe a hike in this type of crime preceding the crises in 2006.
+After investigating the restaurants by geolocations and cousine types served, we can see that Brooklyn has the highest average violation score and Manhattan has the lowest, although the difference is less than one / not significant, and therefore we can not say that a restaurant is safe based solely on its location.
 
-Interpreting the daily crime occurrences is a good tool to understand trends over time, however, to obtain a deeper, higher level overview analyzing crime occurrences over a longer period might yield more concrete insights. Hence, the comparison of the monthly crime magnitudes for each year in the considered period can be seen below.
+Based on cousine types, we can see that Bangladeshi has the highest violation score and Chimichurri has the lowest. One can argue that these scores can be interpreted as outliers if the number of restaurants in this dataset is low. Even though the number of chimichurri selling restaurants are low we can still say that if a person goes into this type of restaurant, he/she can expect an overall good quality. The low score of the hotdog oriented establishments is also interesting, considering the large amount street-food styled hotdog vendors in NYC.
+
+![Barplots](/content/image.png)
+
+<center style = "color:#808080; font-style: italic;" width="80%">Left: Average violation score by neighborhoods. Right: Top 10 and bottom 10 cousine types based on its average violations score.
+</center>
 
 <embed type="text/html" src="/content/bokeh_nyc.html" width="100%" height="600px" style="margin-left:60px">
 <center style = "color:#808080; font-style: italic;" width="80%">Number of robberies aggregated by months in San Francisco (2005-2010).
