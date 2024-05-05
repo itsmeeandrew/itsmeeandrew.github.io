@@ -26,8 +26,14 @@ Based on cousine types, we can see that Bangladeshi has the highest violation sc
 <center style = "color:#808080; font-style: italic;" width="80%">Left: Average violation score by neighborhoods. Right: Top 10 and bottom 10 cousine types based on its average violations score.
 </center>
 
+<div style="margin:35px"></div>
+
+To have a deeper understanding about the relation between a restaurants location and its food served, we combined these two features to check whether we can make assumptions about a certain restaurant based on these properties. Interestingly, even though french food is in the top 25, no french restaurant can be found in Staten Island and Bronx.
+
+Staten Island contains both two extremities regarding the average violation score. Thai food has the highest and jewish/kosher has the lowest. The second cousine type with the highest score is Indian food in Bronx.
+
 <embed type="text/html" src="/content/bokeh_nyc.html" width="100%" height="600px" style="margin-left:60px">
-<center style = "color:#808080; font-style: italic;" width="80%">Number of robberies aggregated by months in San Francisco (2005-2010).
+<center style = "color:#808080; font-style: italic;" width="80%">The 25 most common cousine types' average violation score by neighborhoods.
 </center>
 
 <div style="margin:35px"></div>
