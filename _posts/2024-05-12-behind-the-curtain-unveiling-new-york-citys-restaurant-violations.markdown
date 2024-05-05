@@ -21,7 +21,7 @@ Based on cousine types, we can see that Bangladeshi has the highest violation sc
 
 ![Barplots](/content/image.png)
 
-<center style = "color:#808080; font-style: italic;" width="80%">Left: Average violation score by neighborhoods. Right: Top 10 and bottom 10 cousine types based on its average violations score.
+<center style = "color:#808080; font-style: italic;" width="80%">Top 10 and bottom 10 cousine types based on its average violations score.
 </center>
 
 <div style="margin:35px"></div>
