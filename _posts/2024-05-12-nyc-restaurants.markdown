@@ -4,13 +4,15 @@ title:  "NYC Restaurants"
 date:   2024-05-02 11:16:39 +0100
 categories: analysis
 ---
-In the wake of the 2008 financial crisis, millions faced economic hardship, losing jobs and homes. This blog post explores the potential impact of these desperate times on crime rates in San Francisco. We will be analyzing data from the San Francisco's Open Data Portal' Police Department Incident Reports, spanning the years 2003 to 2018, to see if a correlation exists between the financial crisis and crime trends.
+New York City is the most popolous city in the United States and one of the most influential in the world. Its cousine includes meals from all around the world, reflecting the cultural diversity of the city. From street side hot-dogs to Michelin stared restaurants, there is something to satisfy every palate and budget. As a visitor to the city --or even for locals--, the amount of optiions can be overwhelming. One need to consider several viewpoints to find their favourable restaurant including price and location. Apart from personal preferences, everyone must take into account the safety and sanity of a certain establishment. In this analysis, we are trying to answer whether there are some factors (e.g. location, type of food served) that can affect a restaurants overall safety and cleanliness. In addition, we try to answer whether one can make a safe choice without the need of checking a restaurant's reviews on websites for hours.
 
-When examining any data set or historical event, it's crucial to consider potential precursors. In other words, were there any early warning signs that foreshadowed the event? In our case, we're investigating whether robbery rates might have served as a leading indicator of the approaching recession. When doing research on the topic we found an article [[1]](#ref) that suggested that growth in robbery is potentially highly correlated with the financial wellbeing of households. To investigate this phenomenon we started by visualizing the robbery committed between the time frame of 2005 - 2010 (note that we chose these start and endpoints to have financially stable years to compare with.) 
+In our research, we used the [DOHMH New York City Restaurant Inspection Results](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data) dataset from the NYC OpenData database. This dataset contains every violation citation for restaurants up to three years prior to the most recent inspection. We can get information about a restaurant's inspection results, and date with location attributes (coordinates, neighborhood).
+
+After a quick exploratory analysis we can see that 12,000 restaurants have received less than 7 violations. However, the number of establishments that received at least 7 violations, is even larger.
 
 ![Calendar plot](/content/dist_no_viol.png)
 
-<center style = "color:#808080; font-style: italic;" width="80%">Daily variations in Robbery rates are showcased in this calendar plot for San Francisco (2005-2010).
+<center style = "color:#808080; font-style: italic;" width="80%">Number of violations per each resturant..
 </center>
 
 <div style="margin:35px"></div>
