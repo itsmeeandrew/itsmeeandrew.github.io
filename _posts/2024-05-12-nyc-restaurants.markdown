@@ -8,7 +8,7 @@ In the wake of the 2008 financial crisis, millions faced economic hardship, losi
 
 When examining any data set or historical event, it's crucial to consider potential precursors. In other words, were there any early warning signs that foreshadowed the event? In our case, we're investigating whether robbery rates might have served as a leading indicator of the approaching recession. When doing research on the topic we found an article [[1]](#ref) that suggested that growth in robbery is potentially highly correlated with the financial wellbeing of households. To investigate this phenomenon we started by visualizing the robbery committed between the time frame of 2005 - 2010 (note that we chose these start and endpoints to have financially stable years to compare with.) 
 
-![Calendar plot](/content/calplot.png)
+![Calendar plot](/content/dist_no_viol.png)
 
 <center style = "color:#808080; font-style: italic;" width="80%">Daily variations in Robbery rates are showcased in this calendar plot for San Francisco (2005-2010).
 </center>
