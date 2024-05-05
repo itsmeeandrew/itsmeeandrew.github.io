@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Restaurants in NYC"
+title:  "NYC Restaurants"
 date:   2024-05-02 11:16:39 +0100
 categories: analysis
 ---
