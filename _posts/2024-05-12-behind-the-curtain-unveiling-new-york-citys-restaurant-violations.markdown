@@ -59,18 +59,13 @@ To determine how descriptive the location, cousine type and the count of violati
 <center style = "color:#808080; font-style: italic;" width="80%">Predictive performance based on location, cousine types and violation counts 
 </center>
 
-Conclusion here...
-### <a name="ref"></a>  References 
-
-1. [Impact of economic crisis on crime](https://www.unodc.org/documents/data-and-analysis/statistics/crime/GIVAS_Final_Report.pdf)
-
-2. [One in three homes in this San Francisco neighborhood lives below the poverty line](https://sfstandard.com/2022/12/08/san-francisco-neighborhood-new-census-data-maps/)
+In summary, our analysis of NYC restaurant violations highlights the importance of considering factors like cuisine type and location when dining out. While some links between location and safety were found, we could not find conclusive connections visible to the naked eyes. However to show the level of connections between the aforementioned factors not visible for our eyes we applied our machine learning model and showed high accuracy, meaning that in fact location and cousine types highly correlate with the given violation scores. 
 
 ### <a name="ref"></a>  Contributions 
 
 - András Bence Schin (s233084): Bokeh plot and text
 
-- István László Mádi (s232971): Calendar plot and text
+- István László Mádi (s232971): Map based visualizations, text, ml model
 
 - Boldizsár Elek (s233085): Choropleth map and text
 
