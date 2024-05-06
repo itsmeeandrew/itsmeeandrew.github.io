@@ -63,4 +63,4 @@ To determine how descriptive the location, cousine type and the count of violati
 
 In summary, our analysis of NYC restaurant violations highlights the importance of considering factors like cuisine type and location when dining out. While some links between location and safety were found, we could not find conclusive connections visible to the naked eyes. However to show the level of connections between the aforementioned factors not visible for our eyes we applied our machine learning model and showed high accuracy, meaning that in fact location and cousine types highly correlate with the given violation scores.
 
-Curious readers are invited to take look at the technical details of our analysis [here](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data).
+Curious readers are invited to take look at the technical details of our analysis [here](https://github.com/itsmeeandrew/itsmeeandrew.github.io/blob/main/notebook/project2.ipynb) (requires downloading as the file size is too large to display on GitHub).
