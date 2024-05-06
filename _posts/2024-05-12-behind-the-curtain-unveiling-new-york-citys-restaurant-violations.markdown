@@ -52,6 +52,13 @@ To get an even more in-depth understanding of the inspection scores relation to 
 
 <div style="margin:35px"></div>
 
+To determine how descriptive the location, cousine type and the count of violation committed for the overall violation scores we conducted machine learning based analysis. We found out that is is an exceptionally good predictor as with our machine learning model we achieved 98% accuracy.  
+
+![MLPLOT](/content/output.png)
+
+<center style = "color:#808080; font-style: italic;" width="80%">Predictive performance based on location, cousine types and violation counts 
+</center>
+
 Conclusion here...
 ### <a name="ref"></a>  References 
 
