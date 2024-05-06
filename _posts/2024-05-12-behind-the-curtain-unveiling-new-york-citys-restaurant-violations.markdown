@@ -42,7 +42,7 @@ After investigating the restaurants by geolocations and cousine types served, we
 <center style = "color:#808080; font-style: italic;" width="80%">Average violation score, based on location.
 </center>
 
-To get an even more in-depth understanding of the inspection scores relation to the restaurants whereabouts, we extended our previous analysis, to see if the various types of restaurants have higher quality in different boroughs. We found that overall Latin-American cousine has the highest validation scores, especially in Brooklyn it might not be the wisest choice. Middle-Eastern cousine has record low violation score on Staten Island. Altogether we can say that some locations are better when it comes to certain kinds of restaurants. 
+To get an even more in-depth understanding of the inspection scores relation to the restaurants whereabouts, we extended our previous analysis, to see if the various types of restaurants have higher quality in different boroughs. We found that overall Latin-American cousine has the highest violation scores, especially in Brooklyn it might not be the wisest choice. Middle-Eastern cousine has record low violation score on Staten Island. Altogether we can say that some locations are better when it comes to certain kinds of restaurants. 
 
 <div style="margin:35px"></div>
 
@@ -59,14 +59,7 @@ To determine how descriptive the location, cousine type and the count of violati
 <center style = "color:#808080; font-style: italic;" width="80%">Predictive performance based on location, cousine types and violation counts 
 </center>
 
-In summary, our analysis of NYC restaurant violations highlights the importance of considering factors like cuisine type and location when dining out. While some links between location and safety were found, we could not find conclusive connections visible to the naked eyes. However to show the level of connections between the aforementioned factors not visible for our eyes we applied our machine learning model and showed high accuracy, meaning that in fact location and cousine types highly correlate with the given violation scores. 
+<div style="margin:35px"></div>
 
-### <a name="ref"></a>  Contributions 
-
-- András Bence Schin (s233084): Bokeh plot and text
-
-- István László Mádi (s232971): Map based visualizations, text, ml model
-
-- Boldizsár Elek (s233085): Choropleth map and text
-
+In summary, our analysis of NYC restaurant violations highlights the importance of considering factors like cuisine type and location when dining out. While some links between location and safety were found, we could not find conclusive connections visible to the naked eyes. However to show the level of connections between the aforementioned factors not visible for our eyes we applied our machine learning model and showed high accuracy, meaning that in fact location and cousine types highly correlate with the given violation scores.
 
