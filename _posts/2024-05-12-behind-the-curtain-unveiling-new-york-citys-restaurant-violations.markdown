@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Behind the Curtain: Unveiling New York City's Restaurant Violations"
+title:  "Beneath the Chef's Hat: Unveiling New York City's Restaurant Violations"
 date:   2024-05-02 11:16:39 +0100
 categories: analysis
 ---
@@ -36,18 +36,18 @@ Staten Island contains both two extremities regarding the average violation scor
 
 <div style="margin:35px"></div>
 
----
+After investigating the restaurants by geolocations and cousine types served, we can see that Brooklyn has the highest average violation score and Manhattan has the lowest, although the difference is less than one / not significant, and therefore we can not say that a restaurant is safe based solely on its location.
 
 <embed type="text/html" src="/content/map_nyc.html" width="100%" height="600px">
-<center style = "color:#808080; font-style: italic;" width="80%">Regional differences in robbery rates in San Francisco (2005-2010).
+<center style = "color:#808080; font-style: italic;" width="80%">Average violation score, based on location.
 </center>
 
-After investigating the restaurants by geolocations and cousine types served, we can see that Brooklyn has the highest average violation score and Manhattan has the lowest, although the difference is less than one / not significant, and therefore we can not say that a restaurant is safe based solely on its location.
+To get an even more in-depth understanding of the inspection scores relation to the restaurants whereabouts, we extended our previous analysis, to see if the various types of restaurants have higher quality in different boroughs. We found that overall Latin-American cousine has the highest validation scores, especially in Brooklyn it might not be the wisest choice. Middle-Eastern cousine has record low violation score on Staten Island. Altogether we can say that some locations are better when it comes to certain kinds of restaurants. 
 
 <div style="margin:35px"></div>
 
 <embed type="text/html" src="/content/map_2_nyc.html" width="100%" height="600px">
-<center style = "color:#808080; font-style: italic;" width="80%">Regional differences in robbery rates in San Francisco (2005-2010).
+<center style = "color:#808080; font-style: italic;" width="80%">Regional violation scores based on cousine type.
 </center>
 
 <div style="margin:35px"></div>
