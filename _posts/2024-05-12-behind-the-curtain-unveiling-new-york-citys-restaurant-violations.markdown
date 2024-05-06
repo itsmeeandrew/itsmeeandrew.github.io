@@ -30,11 +30,11 @@ To have a deeper understanding about the relation between a restaurants location
 
 Staten Island contains both two extremities regarding the average violation score. This means the Thai food is the least safe to eat in New York City in Staten Island, and the safest food to eat is Jewish/Kosher. Furthermore, it seems to be a safe bet to eat at Korean and Frozen Dessert places in Staten Island. It is also interesting to note that there seems to be a notable difference in food safety between Bronx and Manhattan when it comes to Chinese and Mediterranean food. Some other places to avoid are: Indian and Latin American places in Queens, Indian places in Brooklyn, Thai and Korean places in Bronx, Indian places in Manhattan, Bakery products in Staten Island.
 
+<div style="margin:35px"></div>
 <embed type="text/html" src="/content/bokeh_nyc.html" width="100%" height="600px" style="margin-left:60px">
 <center style = "color:#808080; font-style: italic;" width="80%">The 25 most common cousine types' average violation score by neighborhoods.
 </center>
 
-<div style="margin:35px"></div>
 
 After investigating the restaurants by geolocations and cousine types served, we can see that Brooklyn has the highest average violation score and Manhattan has the lowest, although the difference is less than one / not significant, and therefore we can not say that a restaurant is safe based solely on its location.
 
